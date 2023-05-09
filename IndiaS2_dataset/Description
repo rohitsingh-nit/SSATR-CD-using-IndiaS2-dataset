@@ -1,6 +1,12 @@
 Description of India Sentinel-2 (IndiaS2) dataset:
 
-All L1C image products are available at Copernicus Open Access Hub freely (https://scihub.copernicus.eu/dhus/#/home)
+Manual Reference Mask Description of IndiaS2 dataset and All L1C image products are available at Copernicus Open Access Hub freely (https://scihub.copernicus.eu/dhus/#/home):
+0:	No Fill	
+1:	No Data	
+2:	Thick Cloud
+3:	Thin Cloud
+4:	Cloud Shadow
+5:	Ground
 
 Training
 1	S2A_MSIL1C_20220328T053641_N0400_R005_T42QZJ_20220328T073341	River/Shoreline/Urban/Farmland 
