@@ -8,3 +8,4 @@ https://drive.google.com/drive/folders/1JHdh0pkI4hT_cMh-2CyprdblVWBrNYdZ?usp=sha
 Please cite the following paper:
 
 **[1] R. Singh, M. Biswas, and M. Pal, “A transformer-based cloud detection approach using Sentinel 2 imageries,” Int. J. Remote Sens., vol. 44, no. 10, pp. 3194–3208, 2023, doi: 10.1080/01431161.2023.2216850.**
+https://doi.org/10.1080/01431161.2023.2216850
